@@ -1,1 +1,1 @@
-creating a Bloggit
+creating a Blogg
